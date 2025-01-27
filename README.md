@@ -29,7 +29,7 @@ Outside of the professional and academic... here are my interests and hobbies:
 
 ----- 
 
-[My Linkedin](www.linkedin.com/in/paula-herrera-998696290)
+[Wiki page on my favorite animal, cats.](https://en.wikipedia.org/wiki/Cat)
 
 ![i really love cats!!](https://github.com/user-attachments/assets/75d46203-9b02-4b47-b9c2-1f16f93c0c4e)
 
