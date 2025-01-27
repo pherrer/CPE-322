@@ -23,5 +23,6 @@ Outside of the professional world and academics... here are my interests and hob
 
 [My Linkedin](www.linkedin.com/in/paula-herrera-998696290)
 
-![alt text]
+![i really love cats!! here is a favorite i found online, cat in a bathtub.](https://github.com/user-attachments/assets/cf5331a7-ec97-4e25-9c05-d73b6755d019)
+
 
