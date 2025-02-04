@@ -9,6 +9,8 @@
 > Inspiring Quote: “Concern for man himself and his fate must always constitute the chief objective of all technological endeavors...in order that the creations of our mind shall be a blessing and not a curse to mankind. Never forget this in the midst of your diagrams and equations.”
 ― Albert Einstein
 
+[Team Site (Google Sites):](https://sites.google.com/stevens.edu/ee-322/home)
+
 Labs (CPE 322)
 1. *links coming soon...*
 
