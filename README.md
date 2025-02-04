@@ -21,7 +21,7 @@ Current Courses for my Spring 2025 Semester:
 4.  EE 489: Intro to Electric Energy Systems
 5.  IDE 399: Engineering Economics & Project Management
 
-Outside of the professional and academic... here are my interests and hobbies:
+Outside of the professional and academic worlds... here are my interests and hobbies:
 -  Drawing & Origami
 -  Reading (my favorite book is the shining by stephen king)
 -  Music (i am learning guitar and listen to music all the time!)
