@@ -23,7 +23,7 @@ Current Courses for my Spring 2025 Semester:
 
 Outside of the professional and academic worlds... here are my interests and hobbies:
 -  Drawing & Origami
--  Reading (my favorite book is the shining by stephen king)
+-  Reading (my favorite book is The Shining by Stephen King)
 -  Music (i am learning guitar and listen to music all the time!)
 -  Photography (mainly of the city and landscapes)
 
