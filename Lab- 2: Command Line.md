@@ -13,6 +13,7 @@ pwd, git clone, cd iot, cd, df, mkdir demo, cd demo:
 
 
 nano file, cat file, cp file file1, mv file file2:
+
 ![image](https://github.com/user-attachments/assets/33fa39e5-c691-48f0-8c61-6d80cd9544c7)
 ![image](https://github.com/user-attachments/assets/468afd57-df77-4243-adce-ef2717458d06)
 
@@ -35,6 +36,7 @@ ping localhost:
 ![image](https://github.com/user-attachments/assets/c1b7cffc-7b5a-4f60-9ed4-4209b87f5a23)
 
 netstat:
+
 ![image](https://github.com/user-attachments/assets/7d91858d-d928-4068-b189-7bcf5614e150)
 ![image](https://github.com/user-attachments/assets/c268896a-b805-49cd-8bbc-970f25958a55)
 ![image](https://github.com/user-attachments/assets/b71da89b-550b-4820-bd16-fbb515964d40)
