@@ -12,7 +12,7 @@
 [**Team Site (Google Sites)**](https://sites.google.com/stevens.edu/ee-322/home)
 
 Labs (CPE 322)
-1. [*Lab 1: GHDL and GTKWave](https://github.com/pherrer/CPE-322/blob/main/Lab-1%3A%20GHDL%20%26%20GTKWave.md)
+1. [Lab 1: GHDL and GTKWave](https://github.com/pherrer/CPE-322/blob/main/Lab-1%3A%20GHDL%20%26%20GTKWave.md)
 
 Current Courses for my Spring 2025 Semester:
 1.  CPE 322: Design VI
