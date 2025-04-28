@@ -8,7 +8,11 @@
 
 **Run Half Adder example:**
 
-_screenshot_
+![image](https://github.com/user-attachments/assets/612f4399-0110-4b6a-83fc-5f8ce528c6d6)
+![image](https://github.com/user-attachments/assets/4948273d-0170-4aff-90cf-5750fc3ecb03)
+![image](https://github.com/user-attachments/assets/76230d1e-971d-4308-91b3-cb54bfe3003e)
+![image](https://github.com/user-attachments/assets/97774a87-fe98-46da-998b-be462010b845)
+
 
 **Run D Flip-Flop example:**
 
