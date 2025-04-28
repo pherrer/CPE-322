@@ -1,14 +1,10 @@
 # CPE 322: Lab 1
 
-**Go into GDHL Folder**
+**Install GHDL & GTKWave:**
+![image](https://github.com/user-attachments/assets/d2387d08-a3ee-465f-8273-1efae454b54c)
+![image](https://github.com/user-attachments/assets/a67f8fff-6f57-4c1e-9243-a3eb2ff56418)
 
-**Install GHDL:**
 
-_screenshot_
-
-**Install GTKWave:**
-
-_screenshot_
 
 **Run Half Adder example:**
 
