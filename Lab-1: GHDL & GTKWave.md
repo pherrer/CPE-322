@@ -1,4 +1,4 @@
-# CPE 322: Lab 1
+# CPE 322: Lab 1: GHDL & GTKWave
 
 **Install GHDL & GTKWave:**
 ![image](https://github.com/user-attachments/assets/d2387d08-a3ee-465f-8273-1efae454b54c)
