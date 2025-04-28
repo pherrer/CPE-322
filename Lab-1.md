@@ -8,13 +8,13 @@
 
 **Run Half Adder example:**
 
-![image](https://github.com/user-attachments/assets/612f4399-0110-4b6a-83fc-5f8ce528c6d6)
-![image](https://github.com/user-attachments/assets/4948273d-0170-4aff-90cf-5750fc3ecb03)
-![image](https://github.com/user-attachments/assets/76230d1e-971d-4308-91b3-cb54bfe3003e)
-![image](https://github.com/user-attachments/assets/97774a87-fe98-46da-998b-be462010b845)
+![image](https://github.com/user-attachments/assets/aa548fd6-7a3c-452b-ab23-1fb4d46b97c6)
+![image](https://github.com/user-attachments/assets/70418d68-d435-4e4d-b870-4505a477b5e7)
 
 
 **Run 4-to-1 Multiplexer example:**
+
+![image](https://github.com/user-attachments/assets/911a39fe-c43d-4ffb-9883-b4301895f3b7)
 ![image](https://github.com/user-attachments/assets/9ff5143d-9605-4b35-bdcf-025d0be8b060)
 
 
