@@ -19,6 +19,3 @@
 ![image](https://github.com/user-attachments/assets/9ff5143d-9605-4b35-bdcf-025d0be8b060)
 
 
-**EDA Playground:**
-
-_screenshot_
