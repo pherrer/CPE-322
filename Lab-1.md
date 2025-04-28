@@ -14,9 +14,9 @@
 ![image](https://github.com/user-attachments/assets/97774a87-fe98-46da-998b-be462010b845)
 
 
-**Run D Flip-Flop example:**
+**Run 4-to-1 Multiplexer example:**
+![image](https://github.com/user-attachments/assets/9ff5143d-9605-4b35-bdcf-025d0be8b060)
 
-_screenshot_
 
 **EDA Playground:**
 
