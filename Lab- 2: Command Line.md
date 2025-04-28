@@ -1,6 +1,7 @@
 # CPE 322: Lab 2: Command Line
 
 **Running commands on the terminal:**
+
 hostname, env, and ps:
 
 ![image](https://github.com/user-attachments/assets/c4306cb8-e242-43bc-be56-a07fd86fd453)
