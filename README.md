@@ -17,6 +17,7 @@ Labs (CPE 322)
 3. [Lab 3: Python](https://github.com/pherrer/CPE-322/blob/ddabe8a5f67077de728480e3bd46bfb439d61daa/Lab-3%3APython.md)
 4. Lab 4: [WIP]
 5. [Lab 5: Paho-MQTT](https://github.com/pherrer/CPE-322/blob/cf26306104d31f60ac2e71cc1edee00c2bd73585/Lab-5%3A%20Paho-MQTT.md)
+6. [Lab 6: Node.js and Pystache](https://github.com/pherrer/CPE-322/blob/684640d2f16603a9f6f66878ed059d617957804a/Lab-6%3A%20Node.js%20and%20Pystache.md)
 
 Current Courses for my Spring 2025 Semester:
 1.  CPE 322: Design VI
