@@ -20,6 +20,7 @@ Labs (CPE 322)
 6. [Lab 6: Node.js and Pystache](https://github.com/pherrer/CPE-322/blob/684640d2f16603a9f6f66878ed059d617957804a/Lab-6%3A%20Node.js%20and%20Pystache.md)
 7. [Lab 7: ThingSpeak and Google Sheets](https://github.com/pherrer/CPE-322/blob/b41b50271511664d004c42a43a8a1e574f178057/Lab-7%3A%20ThingSpeak%20and%20Google%20Sheets.md)
 8. [Lab 8: Data Analysis](https://github.com/pherrer/CPE-322/blob/bf3f5268cd3bdd097f849bdcd4e8befd608837fe/Lab-8%3A%20Data%20Analysis.md)
+9. [Lab 9: YANG](https://github.com/pherrer/CPE-322/blob/b060ddb887216f1dbb9f8fe0001d34533c07ef37/Lab-9%3A%20YANG.md)
 
 Current Courses for my Spring 2025 Semester:
 1.  CPE 322: Design VI
