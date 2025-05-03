@@ -15,6 +15,8 @@ Labs (CPE 322)
 1. [Lab 1: GHDL and GTKWave](https://github.com/pherrer/CPE-322/blob/main/Lab-1%3A%20GHDL%20%26%20GTKWave.md)
 2. [Lab 2: Command Line](https://github.com/pherrer/CPE-322/blob/main/Lab-%202:%20Command%20Line.md)
 3. [Lab 3: Python](https://github.com/pherrer/CPE-322/blob/ddabe8a5f67077de728480e3bd46bfb439d61daa/Lab-3%3APython.md)
+4. Lab 4 [WIP]
+5. [Lab 5: Paho-MQTT](https://github.com/pherrer/CPE-322/blob/cf26306104d31f60ac2e71cc1edee00c2bd73585/Lab-5%3A%20Paho-MQTT.md)
 
 Current Courses for my Spring 2025 Semester:
 1.  CPE 322: Design VI
