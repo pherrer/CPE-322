@@ -21,6 +21,7 @@ Labs (CPE 322)
 7. [Lab 7: ThingSpeak and Google Sheets](https://github.com/pherrer/CPE-322/blob/b41b50271511664d004c42a43a8a1e574f178057/Lab-7%3A%20ThingSpeak%20and%20Google%20Sheets.md)
 8. [Lab 8: Data Analysis](https://github.com/pherrer/CPE-322/blob/bf3f5268cd3bdd097f849bdcd4e8befd608837fe/Lab-8%3A%20Data%20Analysis.md)
 9. [Lab 9: YANG](https://github.com/pherrer/CPE-322/blob/b060ddb887216f1dbb9f8fe0001d34533c07ef37/Lab-9%3A%20YANG.md)
+10. [Lab 10: Blockchain](https://github.com/pherrer/CPE-322/blob/60f9978c354740be759670bbd9e33d6778cbcf62/Lab-10%3A%20Blockchain.md)
 
 Current Courses for my Spring 2025 Semester:
 1.  CPE 322: Design VI
