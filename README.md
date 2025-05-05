@@ -44,6 +44,7 @@ Outside of the professional and academic worlds... here are my interests and hob
 
 ![i really love cats!!](https://github.com/user-attachments/assets/75d46203-9b02-4b47-b9c2-1f16f93c0c4e)
 
+-----
 
 **May 5th, 2025: Wonderful news!! One of my plants sprouted a flower. I had no idea it could do that!**
 
