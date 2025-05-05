@@ -2,7 +2,7 @@
 
 plt_final.py:
 
-![image](https://github.com/user-attachments/assets/79ab03ad-f7a9-4413-9e53-aaecb0a64dc8)
+![image](https://github.com/user-attachments/assets/bc995f62-77df-4a01-98a0-38e5a6e9e4fe)
 
 ![image](https://github.com/user-attachments/assets/43e42672-b61f-4248-82b0-67e8891b1a22)
 
