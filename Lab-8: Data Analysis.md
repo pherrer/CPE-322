@@ -21,4 +21,5 @@ plt cv_2.py:
 
 ![image](https://github.com/user-attachments/assets/5f1ecc11-e899-4500-aa19-d059e714837e)
 
-![image](https://github.com/user-attachments/assets/14613795-a400-49d4-a6a7-6a3f4ea0571f)
+![image](https://github.com/user-attachments/assets/03a2bccf-e3b4-4ad3-8e38-c4b2aba852ca)
+
