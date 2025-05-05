@@ -15,7 +15,7 @@ Labs (CPE 322)
 1. [Lab 1: GHDL and GTKWave](https://github.com/pherrer/CPE-322/blob/main/Lab-1%3A%20GHDL%20%26%20GTKWave.md)
 2. [Lab 2: Command Line](https://github.com/pherrer/CPE-322/blob/main/Lab-%202:%20Command%20Line.md)
 3. [Lab 3: Python](https://github.com/pherrer/CPE-322/blob/ddabe8a5f67077de728480e3bd46bfb439d61daa/Lab-3%3APython.md)
-4. Lab 4: [WIP]
+4. Lab 4: [N/A]
 5. [Lab 5: Paho-MQTT](https://github.com/pherrer/CPE-322/blob/cf26306104d31f60ac2e71cc1edee00c2bd73585/Lab-5%3A%20Paho-MQTT.md)
 6. [Lab 6: Node.js and Pystache](https://github.com/pherrer/CPE-322/blob/684640d2f16603a9f6f66878ed059d617957804a/Lab-6%3A%20Node.js%20and%20Pystache.md)
 7. [Lab 7: ThingSpeak and Google Sheets](https://github.com/pherrer/CPE-322/blob/b41b50271511664d004c42a43a8a1e574f178057/Lab-7%3A%20ThingSpeak%20and%20Google%20Sheets.md)
@@ -43,6 +43,13 @@ Outside of the professional and academic worlds... here are my interests and hob
 [Wiki page on my favorite animal, cats.](https://en.wikipedia.org/wiki/Cat)
 
 ![i really love cats!!](https://github.com/user-attachments/assets/75d46203-9b02-4b47-b9c2-1f16f93c0c4e)
+
+
+**May 5th, 2025: Wonderful news!! One of my plants sprouted a flower. I had no idea it could do that!**
+
+![image](https://github.com/user-attachments/assets/10eeb55e-7460-4eb4-bc2e-f12b9e08b80d)
+
+![image](https://github.com/user-attachments/assets/c559477f-4d40-48e7-b5bf-2d40df8c6a94)
 
 
 
