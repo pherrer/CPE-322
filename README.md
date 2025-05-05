@@ -46,11 +46,9 @@ Outside of the professional and academic worlds... here are my interests and hob
 
 -----
 
-**May 5th, 2025: Wonderful news!! One of my plants sprouted a flower. I had no idea it could do that!**
+### May 5th, 2025: Wonderful news!! One of my plants sprouted a flower. I had no idea it could do that!
 
 ![image](https://github.com/user-attachments/assets/10eeb55e-7460-4eb4-bc2e-f12b9e08b80d)
-
-![image](https://github.com/user-attachments/assets/c559477f-4d40-48e7-b5bf-2d40df8c6a94)
 
 
 
