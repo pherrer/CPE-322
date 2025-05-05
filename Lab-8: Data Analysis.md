@@ -4,8 +4,6 @@ plt_final.py:
 
 ![image](https://github.com/user-attachments/assets/bc995f62-77df-4a01-98a0-38e5a6e9e4fe)
 
-![image](https://github.com/user-attachments/assets/43e42672-b61f-4248-82b0-67e8891b1a22)
-
 ![image](https://github.com/user-attachments/assets/2a26c912-1f3d-4d3c-be2a-fa6dce54b2a6)
 
 ![image](https://github.com/user-attachments/assets/26e92f24-bfc0-4a38-8ffd-4145fc855c0e)
